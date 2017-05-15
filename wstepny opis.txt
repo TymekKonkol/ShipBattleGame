@@ -1,10 +1,10 @@
-Gra w statki oparta na peer-to-peer na portach.
-Jedna aplikacja, z mo¿liwoœci¹ wyboru hostowania gry i do³¹czenia do gry. 
-Aby zagraæ trzeba po prostu uruchomiæ dwa razy t¹ sam¹ aplikacjê, w jednej wybraæ hostowanie w drugiej do³¹czenie do gry.
-Aplikacja bêdzie posiada³a menu, z kilkoma opcjami. Informacjê o bie¿¹cym stanie planszy zarówno swojej jak i przeciwnika,
-a tak¿e o ostanim ruchu bêd¹ na bie¿¹co aktualizowane.
-Funkcjonalnoœci:
+Gra w statki peer-to-peer oparta na portach.
+Jedna aplikacja, z moÅ¼liwoÅ›ciÄ… wyboru hostowania gry i doÅ‚Ä…czenia do gry. 
+Aby zagraÄ‡ trzeba po prostu uruchomiÄ‡ dwa razy tÄ… samÄ… aplikacjÄ™, w jednej wybraÄ‡ hostowanie w drugiej doÅ‚Ä…czenie do gry.
+Aplikacja bÄ™dzie posiadaÅ‚a menu, z kilkoma opcjami. InformacjÄ™ o bieÅ¼Ä…cym stanie planszy zarÃ³wno swojej jak i przeciwnika,
+a takÅ¼e o ostanim ruchu bÄ™dÄ… na bieÅ¼Ä…co aktualizowane.
+FunkcjonalnoÅ›ci:
 -Gra w statki. - Tymek
--Multiplayer, za pomoc¹ przesy³ania danych przez porty. - Tymek
--Ustawianie statków na ¿¹dan¹ pozycjê (edytor pozycji). - czêœæ logiczna Tymek, czêœæ GUI Micha³
--GUI - Micha³
+-Multiplayer, za pomocÄ… przesyÅ‚ania danych przez porty. - Tymek
+-Ustawianie statkÃ³w na Å¼Ä…danÄ… pozycjÄ™ (edytor pozycji). - czÄ™Å›Ä‡ logiczna Tymek, czÄ™Å›Ä‡ GUI MichaÅ‚
+-GUI - MichaÅ‚
